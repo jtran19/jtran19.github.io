@@ -1,10 +1,10 @@
 # Site settings
-title: Jeff Tran
+title: Jeffrey Tran
 email: jtweezy19@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Software designer/developer from Austin, TX with a passion for simple, efficient design, food, photography and the outdoors.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.jefftran.net" # the base hostname & protocol for your site
+# url: "http://www.jefftran.net" # the base hostname & protocol for your site
 twitter_username: jtran19
 github_username:  jtran19
 
